@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there! 👋 I'm Richard  
+🚀 **Data Analysis | SQL | Python | Power BI |**  
 
-<!--
-**lukumbin/lukumbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 **About Me**
+🔹 Passionate about transforming data into actionable insights 🔎📈  
+🔹 Skilled in **SQL, Python, Power BI, and Tableau**  
+🔹 Love solving complex problems with data-driven solutions 💡  
+🔹 Constantly learning & exploring **machine learning and business intelligence**  
 
-Here are some ideas to get you started:
+# 🤝 **Highlights**  
+# *Data Migration*
+Contributed to a six-month data migration project for municipal organizational structures using a prototype based on position mapping. Assisted in developing and analyzing the pilot migration report to assess data accuracy and alignment before executing the full migration. Worked with the municipality’s existing structure to facilitate a seamless transition to the new framework while ensuring data integrity and consistency. Collaborated with team members and stakeholders to validate data, resolve discrepancies, and optimize the migration process. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# *Sage 300 to Sage Cloud Migration Project*
+Contributed in the implementation of a data migration project transitioning from Sage 300 to Sage Cloud. Assisted in data extraction, cleansing, and validation to ensure a smooth migration with minimal disruption to business operations. Worked closely with stakeholders to test and verify data accuracy post-migration. Contributed to troubleshooting and resolving migration challenges while ensuring compliance with financial and operational requirements.
+
+---  
+
+## 🛠 **Tech Stack & Tools**  
+
+**Languages & Databases**  
+💻 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+🛢 SQL (MySQL, PostgreSQL, SQL Server)  
+
+**Data Visualization & BI**  
+📊 Power BI | Tableau | Excel  
+
+**Other Tools**  
+☁ AWS | Azure (Basic)  
+📂 Jupyter Notebook | Git & GitHub  
+
+## 📢 **Let's Connect!**  
+🔗 [LinkedIn](www.linkedin.com/in/richard-lukumbi-ndlovu) | 📩 lukumbindlovu@gmail.com
+
+🚀 *Open to collaborations & exciting projects!*

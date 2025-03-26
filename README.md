@@ -30,6 +30,6 @@ Contributed in the implementation of a data migration project transitioning from
 📂 Jupyter Notebook | Git & GitHub  
 
 ## 📢 **Let's Connect!**  
-🔗 [LinkedIn](www.linkedin.com/in/richard-lukumbi-ndlovu) | 📩 lukumbindlovu@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/richard-lukumbi-ndlovu) | 📩 lukumbindlovu@gmail.com
 
 🚀 *Open to collaborations & exciting projects!*

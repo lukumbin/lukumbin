@@ -1,11 +1,11 @@
 ## Hi there! 👋 I'm Richard  
-🚀 **Data Analysis | SQL | Python | Power BI |**  
+🚀 **Data Analysis | SQL | Python | Asipring Data Scientist |**  
 
 ## 📊 **About Me**
 🔹 Passionate about transforming data into actionable insights 🔎📈  
-🔹 Skilled in **SQL, Python, Power BI, and Tableau**  
+🔹 Skilled in **SQL, Python, EDA & Power BI**  
 🔹 Love solving complex problems with data-driven solutions 💡  
-🔹 Constantly learning & exploring **machine learning and business intelligence**  
+🔹 Constantly learning & exploring **AI & Machine Learning**  
 
 # 🤝 **Highlights**  
 # *Data Migration*

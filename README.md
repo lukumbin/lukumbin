@@ -20,13 +20,13 @@ Contributed in the implementation of a data migration project transitioning from
 
 **Languages & Databases**  
 💻 Python (Pandas, NumPy, Matplotlib, Seaborn)  
-🛢 SQL (MySQL, PostgreSQL, SQL Server)  
+🛢 SQL (MySQL, SQL Server)  
 
 **Data Visualization & BI**  
-📊 Power BI | Tableau | Excel  
+📊 Power BI | Excel  
 
 **Other Tools**  
-☁ AWS | Azure (Basic)  
+☁ Azure (Basic)  
 📂 Jupyter Notebook | Git & GitHub  
 
 ## 📢 **Let's Connect!**  

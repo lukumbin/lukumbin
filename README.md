@@ -1,13 +1,13 @@
 ## Hi there! 👋 I'm Richard  
-🚀 **Data Analysis | SQL | Python | Asipring Data Scientist |**  
+🚀 **Data Analysis | SQL | Python | Asipring Data Scientist **  
 
 ## 📊 **About Me**
 🔹 Passionate about transforming data into actionable insights 🔎📈  
-🔹 Skilled in **SQL, Python, EDA & Power BI**  
+🔹 Skilled in **SQL, Python, & Power BI**  
 🔹 Love solving complex problems with data-driven solutions 💡  
 🔹 Constantly learning & exploring **AI & Machine Learning**  
 
-# 🤝 **Highlights**  
+# **Highlights**  
 # *Data Migration*
 Contributed to a six-month data migration project for municipal organizational structures using a prototype based on position mapping. Assisted in developing and analyzing the pilot migration report to assess data accuracy and alignment before executing the full migration. Worked with the municipality’s existing structure to facilitate a seamless transition to the new framework while ensuring data integrity and consistency. Collaborated with team members and stakeholders to validate data, resolve discrepancies, and optimize the migration process. 
 
@@ -19,7 +19,7 @@ Contributed in the implementation of a data migration project transitioning from
 ## 🛠 **Tech Stack & Tools**  
 
 **Languages & Databases**  
-💻 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+💻 Python (Pandas, NumPy, Matplotlib)  
 🛢 SQL (MySQL, SQL Server)  
 
 **Data Visualization & BI**  
@@ -27,7 +27,7 @@ Contributed in the implementation of a data migration project transitioning from
 
 **Other Tools**  
 ☁ Azure (Basic)  
-📂 Jupyter Notebook | Git & GitHub  
+📂 Jupyter Lab | Git & GitHub  
 
 ## 📢 **Let's Connect!**  
 🔗 [LinkedIn](https://www.linkedin.com/in/richard-lukumbi-ndlovu) | 📩 lukumbindlovu@gmail.com

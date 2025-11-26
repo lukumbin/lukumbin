@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Richard  
-🚀 **Data Analysis | SQL | Python | Asipring Data Scientist **  
+🚀 Data Analysis | SQL | Python | Asipring Data Scientist  
 
 ## 📊 **About Me**
 🔹 Passionate about transforming data into actionable insights 🔎📈  
